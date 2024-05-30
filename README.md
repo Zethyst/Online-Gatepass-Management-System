@@ -13,8 +13,6 @@
 
 <a href="https://documenter.getpostman.com/view/34667377/2sA3Qv8B5V">Click here for documentation</a>
 
-https://documenter.getpostman.com/view/34667377/2sA3Qv8B5V
-
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through the below handle.
